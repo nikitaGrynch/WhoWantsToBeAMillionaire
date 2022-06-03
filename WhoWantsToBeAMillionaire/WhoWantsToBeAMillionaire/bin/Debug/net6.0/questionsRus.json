@@ -1,0 +1,243 @@
+[
+	{
+	"Title": "Что не могли вытянуть герои одноименной сказки?",
+	"TrueAnswer": "репку",
+	"FalseAnswer1": "морковку",
+	"FalseAnswer2": "картошку",
+	"FalseAnswer3": "свеклу",
+	"QuestionLevel": 1
+	},
+
+	{
+	"Title": "Какой город стоит на реке, тезкой которой является?",
+	"TrueAnswer": "Москва",
+	"FalseAnswer1": "Санкт-Петербург",
+	"FalseAnswer2": "Ростов",
+	"FalseAnswer3": "Иваново",
+	"QuestionLevel": 1
+	},
+	{
+	"Title": "Что желает знать каждый охотник?",
+	"TrueAnswer": "Где сидит фазан",
+	"FalseAnswer1": "Где наша не пропадала",
+	"FalseAnswer2": "Где гарантии",
+	"FalseAnswer3": "Где раки зимуют",
+	"QuestionLevel": 1
+	},
+	{
+	"Title": "Как называется устройство для подъема тяжелых грузов?",
+	"TrueAnswer": "Лебедка",
+	"FalseAnswer1": "Синица",
+	"FalseAnswer2": "Фламинго",
+	"FalseAnswer3": "Селедка",
+	"QuestionLevel": 1
+	},
+	{
+	"Title": "Как называется полосатая одежда моряка?",
+	"TrueAnswer": "Тельняшка",
+	"FalseAnswer1": "Толстовка",
+	"FalseAnswer2": "Тенниска",
+	"FalseAnswer3": "Бескозырка",
+	"QuestionLevel": 1
+	},
+	{
+	"Title": "С помощью чего размножаются тюльпаны?",
+	"TrueAnswer": "Луковиц",
+	"FalseAnswer1": "Моркови",
+	"FalseAnswer2": "Свеклы",
+	"FalseAnswer3": "Кочанов",
+	"QuestionLevel": 1
+	},
+	{
+	"Title": "Какой хлеб реже всего появлялся в советских магазинах?",
+	"TrueAnswer": "Сегодняшний",
+	"FalseAnswer1": "Батон",
+	"FalseAnswer2": "Ржаной",
+	"FalseAnswer3": "Кирпичик",
+	"QuestionLevel": 2
+	},
+	{
+	"Title": "Каким из этих слов не обозначают звук, издаваемый копытами?",
+	"TrueAnswer": "Скрип",
+	"FalseAnswer1": "Стук",
+	"FalseAnswer2": "Цокот",
+	"FalseAnswer3": "Топот",
+	"QuestionLevel": 2
+	},
+	{
+	"Title": "Какое из этих устройств появилось позже остальных?",
+	"TrueAnswer": "Мультиварка",
+	"FalseAnswer1": "Тостер",
+	"FalseAnswer2": "Электрическая мясорубка",
+	"FalseAnswer3": "Печь СВЧ",
+	"QuestionLevel": 2
+	},
+	{
+	"Title": "Чего нет у природы, по мнению автора песни из фильма \"Служебный роман\"?",
+	"TrueAnswer": "Плохой погоды",
+	"FalseAnswer1": "Ужасной погоды",
+	"FalseAnswer2": "Жуткой погоды",
+	"FalseAnswer3": "Совести",
+	"QuestionLevel": 2
+	},
+	{
+	"Title": "Кто написал сказку \"Новое платье короля\"?",
+	"TrueAnswer": "Андерсен",
+	"FalseAnswer1": "Шварц",
+	"FalseAnswer2": "Перро",
+	"FalseAnswer3": "Гауф",
+	"QuestionLevel": 2
+	},
+	{
+	"Title": "Что такое типсы, которые особенно ценятся сборщиками чая?",
+	"TrueAnswer": "Почки",
+	"FalseAnswer1": "Цветы",
+	"FalseAnswer2": "Листья",
+	"FalseAnswer3": "Части стебля",
+	"QuestionLevel": 2
+	},
+	{
+	"Title": "Какая из планет Солнечной системы самая горячая?",
+	"TrueAnswer": "Венера",
+	"FalseAnswer1": "Марс",
+	"FalseAnswer2": "Меркурий",
+	"FalseAnswer3": "Юпитер",
+	"QuestionLevel": 3
+	},
+	{
+	"Title": "Примерно скольким километрам равен один лье?",
+	"TrueAnswer": "4",
+	"FalseAnswer1": "8",
+	"FalseAnswer2": "2",
+	"FalseAnswer3": "12",
+	"QuestionLevel": 3
+	},
+	{
+	"Title": "Из какого языка пришло в русский слово \"колготы\"?",
+	"TrueAnswer": "из чешского",
+	"FalseAnswer1": "из французского",
+	"FalseAnswer2": "из греческого",
+	"FalseAnswer3": "из испанского",
+	"QuestionLevel": 3
+	},
+	{
+	"Title": "Кто в Норвегии выступает с новогодним обращением к народу?",
+	"TrueAnswer": "Король",
+	"FalseAnswer1": "Президент",
+	"FalseAnswer2": "Первая леди",
+	"FalseAnswer3": "Премьер-министр",
+	"QuestionLevel": 3
+	},
+	{
+	"Title": "Кто произнес с балкона фразу: \"Мое лицо под маской ночи скрыто\"?",
+	"TrueAnswer": "Джульетта в Вероне",
+	"FalseAnswer1": "Кастро в Сантьяго",
+	"FalseAnswer2": "Ленин в Москве",
+	"FalseAnswer3": "Папа в Ватикане",
+	"QuestionLevel": 3
+	},
+	{
+	"Title": "В кого, согласно мифу, богиня Гера превратила стоглазого великана Аргуса?",
+	"TrueAnswer": "в павлина",
+	"FalseAnswer1": "в леопарда",
+	"FalseAnswer2": "в кита",
+	"FalseAnswer3": "в кентавра",
+	"QuestionLevel": 3
+	},
+	{
+	"Title": "Кто из этих философов в 1864 году написал музыку на стихи А.С. Пушкина «Заклинание» и \"Зимний вечер\"?",
+	"TrueAnswer": "Ницше",
+	"FalseAnswer1": "Юнг",
+	"FalseAnswer2": "Гегель",
+	"FalseAnswer3": "Шопенгауэр",
+	"QuestionLevel": 5
+	},
+	{
+	"Title": "Сколько раз в сутки подзаводят куранты Спасской башни Кремля?",
+	"TrueAnswer": "Два",
+	"FalseAnswer1": "Один",
+	"FalseAnswer2": "Три",
+	"FalseAnswer3": "Четыре",
+	"QuestionLevel": 5
+	},
+	{
+	"Title": "Кто 1-м получил Нобелевскую премию по литературе?",
+	"TrueAnswer": "Поэт",
+	"FalseAnswer1": "Романист",
+	"FalseAnswer2": "Драматург",
+	"FalseAnswer3": "Эссеист",
+	"QuestionLevel": 5
+	},
+	{
+	"Title": "Что такое лобогрейка?",
+	"TrueAnswer": "Жнейка",
+	"FalseAnswer1": "Шапка",
+	"FalseAnswer2": "Болезнь",
+	"FalseAnswer3": "Печка",
+	"QuestionLevel": 5
+	},
+	{
+	"Title": "Какой вид кавалерии предназначался для боевых действий как в конном, так и в пешем строю?",
+	"TrueAnswer": "Драгуны",
+	"FalseAnswer1": "Гусары",
+	"FalseAnswer2": "Уланы",
+	"FalseAnswer3": "Кирасиры",
+	"QuestionLevel": 4
+	},
+	{
+	"Title": "Какое имя не принимал ни один папа римский?",
+	"TrueAnswer": "Георгий",
+	"FalseAnswer1": "Валентин",
+	"FalseAnswer2": "Евгений",
+	"FalseAnswer3": "Виктор",
+	"QuestionLevel": 4
+	},
+	{
+	"Title": "Кем приходились друг другу толстый и тонкий из одноимённого рассказа Чехова?",
+	"TrueAnswer": "Одноклассниками",
+	"FalseAnswer1": "Коллегами",
+	"FalseAnswer2": "Братьями",
+	"FalseAnswer3": "Никем",
+	"QuestionLevel": 4
+	},
+	{
+	"Title": "Название какого алкогольного напитка переводится с немецкого как \"полынь\"?",
+	"TrueAnswer": "Вермут",
+	"FalseAnswer1": "Мускат",
+	"FalseAnswer2": "Сидр",
+	"FalseAnswer3": "Абсент",
+	"QuestionLevel": 4
+	},
+	{
+	"Title": "Скольким каратам соответствует чистое золото?",
+	"TrueAnswer": "24",
+	"FalseAnswer1": "12",
+	"FalseAnswer2": "8",
+	"FalseAnswer3": "32",
+	"QuestionLevel": 4
+	},
+	{
+	"Title": "Каким был самый разгромный счет в истории официальных футбольных матчей?",
+	"TrueAnswer": "149:0",
+	"FalseAnswer1": "23:4",
+	"FalseAnswer2": "46:2",
+	"FalseAnswer3": "100:1",
+	"QuestionLevel": 4
+	},
+	{
+	"Title": "Что запрещал указ, который в 1726 году подписала Екатерина I?",
+	"TrueAnswer": "Пускать пыль в глаза",
+	"FalseAnswer1": "Бить баклуши",
+	"FalseAnswer2": "Точить лясы",
+	"FalseAnswer3": "Переливать из пустого в порожнее",
+	"QuestionLevel": 5
+	},
+	{
+	"Title": " Кто давал уроки великой фигуристке Соне Хени?",
+	"TrueAnswer": "Тамара Карсавина",
+	"FalseAnswer1": "Любовь Орлова",
+	"FalseAnswer2": "Кого Шанель",
+	"FalseAnswer3": "Энрике Карузо",
+	"QuestionLevel": 5
+	}
+]

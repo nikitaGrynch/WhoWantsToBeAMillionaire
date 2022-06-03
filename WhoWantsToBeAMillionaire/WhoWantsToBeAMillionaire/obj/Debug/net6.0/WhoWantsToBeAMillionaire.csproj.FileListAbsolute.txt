@@ -1,0 +1,15 @@
+C:\Users\grynch\source\repos\nikitaGrynch\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\bin\Debug\net6.0\WhoWantsToBeAMillionaire.exe
+C:\Users\grynch\source\repos\nikitaGrynch\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\bin\Debug\net6.0\WhoWantsToBeAMillionaire.deps.json
+C:\Users\grynch\source\repos\nikitaGrynch\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\bin\Debug\net6.0\WhoWantsToBeAMillionaire.runtimeconfig.json
+C:\Users\grynch\source\repos\nikitaGrynch\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\bin\Debug\net6.0\WhoWantsToBeAMillionaire.dll
+C:\Users\grynch\source\repos\nikitaGrynch\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\bin\Debug\net6.0\ref\WhoWantsToBeAMillionaire.dll
+C:\Users\grynch\source\repos\nikitaGrynch\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\bin\Debug\net6.0\WhoWantsToBeAMillionaire.pdb
+C:\Users\grynch\source\repos\nikitaGrynch\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\obj\Debug\net6.0\WhoWantsToBeAMillionaire.csproj.AssemblyReference.cache
+C:\Users\grynch\source\repos\nikitaGrynch\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\obj\Debug\net6.0\WhoWantsToBeAMillionaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grynch\source\repos\nikitaGrynch\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\obj\Debug\net6.0\WhoWantsToBeAMillionaire.AssemblyInfoInputs.cache
+C:\Users\grynch\source\repos\nikitaGrynch\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\obj\Debug\net6.0\WhoWantsToBeAMillionaire.AssemblyInfo.cs
+C:\Users\grynch\source\repos\nikitaGrynch\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\obj\Debug\net6.0\WhoWantsToBeAMillionaire.csproj.CoreCompileInputs.cache
+C:\Users\grynch\source\repos\nikitaGrynch\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\obj\Debug\net6.0\WhoWantsToBeAMillionaire.dll
+C:\Users\grynch\source\repos\nikitaGrynch\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\obj\Debug\net6.0\ref\WhoWantsToBeAMillionaire.dll
+C:\Users\grynch\source\repos\nikitaGrynch\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\obj\Debug\net6.0\WhoWantsToBeAMillionaire.pdb
+C:\Users\grynch\source\repos\nikitaGrynch\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\obj\Debug\net6.0\WhoWantsToBeAMillionaire.genruntimeconfig.cache

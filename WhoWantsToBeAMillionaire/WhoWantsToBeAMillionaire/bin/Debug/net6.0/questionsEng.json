@@ -1,0 +1,243 @@
+[
+	{
+	"Title": "In the UK, the abbreviation NHS stands for National what Service?",
+	"TrueAnswer": "Health",
+	"FalseAnswer1": "Humanity",
+	"FalseAnswer2": "Honour",
+	"FalseAnswer3": "Household",
+	"QuestionLevel": 1
+	},
+
+	{
+	"Title": "Which Disney character famously leaves a glass slipper behind at a royal ball?",
+	"TrueAnswer": "Cinderella",
+	"FalseAnswer1": "Pocahontas",
+	"FalseAnswer2": "Sleeping Beauty",
+	"FalseAnswer3": "Elsa",
+	"QuestionLevel": 1
+	},
+	{
+	"Title": "What name is given to the revolving belt machinery in an airport that delivers checked luggage from the plane to baggage reclaim?",
+	"TrueAnswer": "Carousel",
+	"FalseAnswer1": "Concourse",
+	"FalseAnswer2": "Terminal",
+	"FalseAnswer3": "Hangar",
+	"QuestionLevel": 1
+	},
+	{
+	"Title": "What sort of animal is Walt Disney's Dumbo?",
+	"TrueAnswer": "Elephant",
+	"FalseAnswer1": "Deer",
+	"FalseAnswer2": "Rabbit",
+	"FalseAnswer3": "Donkey",
+	"QuestionLevel": 1
+	},
+	{
+	"Title": "What was the name of the Spanish waiter in the TV sitcom \"Fawlty Towers\"?",
+	"TrueAnswer": "Manuel",
+	"FalseAnswer1": "Pedro",
+	"FalseAnswer2": "Alfonso",
+	"FalseAnswer3": "Javier",
+	"QuestionLevel": 1
+	},
+	{
+	"Title": "Which battles took place between the Royal Houses of York and Lancaster?",
+	"TrueAnswer": "War of the Roses",
+	"FalseAnswer1": "Thirty Years War",
+	"FalseAnswer2": "Hundred Years War",
+	"FalseAnswer3": "English Civil War",
+	"QuestionLevel": 1
+	},
+	{
+	"Title": "Which of these brands was chiefly associated with the manufacture of household locks?",
+	"TrueAnswer": "Chubb",
+	"FalseAnswer1": "Phillips",
+	"FalseAnswer2": "Flymo",
+	"FalseAnswer3": "Ronseal",
+	"QuestionLevel": 2
+	},
+	{
+	"Title": "The hammer and sickle is one of the most recognisable symbols of which political ideology?",
+	"TrueAnswer": "Communism",
+	"FalseAnswer1": "Republicanism",
+	"FalseAnswer2": "Conservatism",
+	"FalseAnswer3": "Liberalism",
+	"QuestionLevel": 2
+	},
+	{
+	"Title": "Which toys have been marketed with the phrase \"robots in disguise\"?",
+	"TrueAnswer": "Transformers",
+	"FalseAnswer1": "Bratz Dolls",
+	"FalseAnswer2": "Sylvanian Families",
+	"FalseAnswer3": "Hatchimals",
+	"QuestionLevel": 2
+	},
+	{
+	"Title": "Which former Beatle narrated the TV adventures of Thomas the Tank Engine?",
+	"TrueAnswer": "Ringo Starr",
+	"FalseAnswer1": "John Lennon",
+	"FalseAnswer2": "Paul McCartney",
+	"FalseAnswer3": "George Harrison",
+	"QuestionLevel": 2
+	},
+	{
+	"Title": "Queen Anne was the daughter of which English Monarch?",
+	"TrueAnswer": "James II",
+	"FalseAnswer1": "Henry VIII",
+	"FalseAnswer2": "Victoria",
+	"FalseAnswer3": "William I",
+	"QuestionLevel": 2
+	},
+	{
+	"Title": "Who composed \"Rhapsody in Blue\"?",
+	"TrueAnswer": "George Gershwin",
+	"FalseAnswer1": "Irving Berlin",
+	"FalseAnswer2": "Aaron Copland",
+	"FalseAnswer3": "Cole Porter",
+	"QuestionLevel": 2
+	},
+	{
+	"Title": "What does the word loquacious mean?",
+	"TrueAnswer": "Chatty",
+	"FalseAnswer1": "Angry",
+	"FalseAnswer2": "Beautiful",
+	"FalseAnswer3": "Shy",
+	"QuestionLevel": 3
+	},
+	{
+	"Title": "Obstetrics is a branch of medicine particularly concerned with what?",
+	"TrueAnswer": "Childbirth",
+	"FalseAnswer1": "Broken bones",
+	"FalseAnswer2": "Heart conditions",
+	"FalseAnswer3": "Old age",
+	"QuestionLevel": 3
+	},
+	{
+	"Title": "In Doctor Who, what was the signature look of the fourth Doctor, as portrayed by Tom Baker?",
+	"TrueAnswer": "Wide-brimmed hat and extra long scarf",
+	"FalseAnswer1": "Bow-tie, braces and tweed jacket",
+	"FalseAnswer2": "Pinstripe suit and trainers",
+	"FalseAnswer3": "Cape, velvet jacket and frilly shirt",
+	"QuestionLevel": 3
+	},
+	{
+	"Title": "What is the Celsius equivalent of 77 degrees Fahrenheit?",
+	"TrueAnswer": "25",
+	"FalseAnswer1": "15",
+	"FalseAnswer2": "20",
+	"FalseAnswer3": "30",
+	"QuestionLevel": 3
+	},
+	{
+	"Title": "Suffolk Punch and Hackney are types of what?",
+	"TrueAnswer": "Horse",
+	"FalseAnswer1": "Carriage",
+	"FalseAnswer2": "Wrestling style",
+	"FalseAnswer3": "Cocktail",
+	"QuestionLevel": 3
+	},
+	{
+	"Title": "Which Shakespeare play features the line \"Neither a borrower nor a lender be\"?",
+	"TrueAnswer": "Hamlet",
+	"FalseAnswer1": "Macbeth",
+	"FalseAnswer2": "Othello",
+	"FalseAnswer3": "The Merchant of Venice",
+	"QuestionLevel": 3
+	},
+	{
+	"Title": "Which of these cetaceans is classified as a \"toothed whale\"?",
+	"TrueAnswer": "Sperm whale",
+	"FalseAnswer1": "Gray whale",
+	"FalseAnswer2": "Minke whale",
+	"FalseAnswer3": "Humpback whale",
+	"QuestionLevel": 5
+	},
+	{
+	"Title": "Who is the only British politician to have held all four \"Great Offices of State\" at some point during their career?",
+	"TrueAnswer": "James Callaghan",
+	"FalseAnswer1": "David Lloyd George",
+	"FalseAnswer2": "Harold Wilson",
+	"FalseAnswer3": "John Major",
+	"QuestionLevel": 5
+	},
+	{
+	"Title": "In 1718, which pirate died in battle off the coast of what is now North Carolina?",
+	"TrueAnswer": "Blackbeard",
+	"FalseAnswer1": "Calico Jack",
+	"FalseAnswer2": "Bartholomew Roberts",
+	"FalseAnswer3": "Captain Kidd",
+	"QuestionLevel": 5
+	},
+	{
+	"Title": "From which author's work did scientists take the word \"quark\"",
+	"TrueAnswer": "James Joyce",
+	"FalseAnswer1": "Lewis Carroll",
+	"FalseAnswer2": "Edward Lear",
+	"FalseAnswer3": "Aldous Huxley",
+	"QuestionLevel": 5
+	},
+	{
+	"Title": "Which of these religious observances lasts for the shortest period of time during the calendar year?",
+	"TrueAnswer": "Diwali",
+	"FalseAnswer1": "Ramadan",
+	"FalseAnswer2": "Lent",
+	"FalseAnswer3": "Hanukkah",
+	"QuestionLevel": 4
+	},
+	{
+	"Title": "At the closest point, which island group is only 50 miles south-east of the coast of Florida?",
+	"TrueAnswer": "Bahamas",
+	"FalseAnswer1": "US Virgin Islands",
+	"FalseAnswer2": "Turks and Caicos Islands",
+	"FalseAnswer3": "Bermuda",
+	"QuestionLevel": 4
+	},
+	{
+	"Title": "Construction of which of these famous landmarks was completed first?",
+	"TrueAnswer": "Big Ben Clock Tower",
+	"FalseAnswer1": "Empire State Building",
+	"FalseAnswer2": "Royal Albert Hall",
+	"FalseAnswer3": "Eiffel Tower",
+	"QuestionLevel": 4
+	},
+	{
+	"Title": "Which of these islands was ruled by Britain from 1815 until 1864?",
+	"TrueAnswer": "Corfu",
+	"FalseAnswer1": "Crete",
+	"FalseAnswer2": "Corsica",
+	"FalseAnswer3": "Cyprus",
+	"QuestionLevel": 4
+	},
+	{
+	"Title": "Which is the largest city in the USA's largest state?",
+	"TrueAnswer": "Anchorage",
+	"FalseAnswer1": "Dallas",
+	"FalseAnswer2": "Los Angeles",
+	"FalseAnswer3": "New York",
+	"QuestionLevel": 4
+	},
+	{
+	"Title": "The word \"aristocracy\" literally means power in the hands of whom?",
+	"TrueAnswer": "The best",
+	"FalseAnswer1": "The few",
+	"FalseAnswer2": "The barons",
+	"FalseAnswer3": "The rich",
+	"QuestionLevel": 4
+	},
+	{
+	"Title": "Where would a \"peruke\" be worn?",
+	"TrueAnswer": "On the head",
+	"FalseAnswer1": "Around the neck",
+	"FalseAnswer2": "Around the waist",
+	"FalseAnswer3": "On the wrist",
+	"QuestionLevel": 5
+	},
+	{
+	"Title": " In which palace was Queen Elizabeth I born?",
+	"TrueAnswer": "Greenwich",
+	"FalseAnswer1": "Richmond",
+	"FalseAnswer2": "Hampton Court",
+	"FalseAnswer3": "Kensington",
+	"QuestionLevel": 5
+	}
+]
